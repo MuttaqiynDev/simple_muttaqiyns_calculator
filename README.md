@@ -15,12 +15,6 @@ This calculator supports basic arithmetic operations like addition, subtraction,
 
 ---
 
-## 📸 Screenshot
-
-> *(You can add a screenshot here later to show how the calculator looks)*
-
----
-
 ## 💡 How to Run
 
 1. ✅ Make sure Python 3 is installed on your system.
