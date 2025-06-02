@@ -31,14 +31,14 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Muttaqiyndev/tkinter-calculator.git
-   cd tkinter-calculator
+   git clone https://github.com/Muttaqiyndev/simple_muttaqiyns_calculator.git
+   cd simple_muttaqiyns_calculator
    ```
 
 2. **Run the calculator:**
 
    ```bash
-   python calculator.py
+   python main.py
    ```
 
    *(If your file has a different name, adjust accordingly.)*
@@ -74,8 +74,8 @@ Ensure you have the following installed:
 ## 📂 Project Structure
 
 ```
-tkinter-calculator/
-├── calculator.py
+simple_muttaqiyns_calculator/
+├── main.py
 └── README.md
 ```
 
