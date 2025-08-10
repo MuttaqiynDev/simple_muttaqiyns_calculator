@@ -2,7 +2,7 @@
 
 *A simple yet powerful GUI calculator built with Python's Tkinter.*
 
-![Last Commit](https://img.shields.io/github/last-commit/Muttaqiyndev/tkinter-calculator?label=last%20commit)
+![Last Commit](https://img.shields.io/github/last-commit/MuttaqiynDev/simple_muttaqiyns_calculator?label=last%20commit)
 ![Language](https://img.shields.io/badge/python-100%25-blue)
 
 *Built using the following tools and technologies:*
