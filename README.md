@@ -1,4 +1,4 @@
-# 🧮 Tkinter Calculator
+# Tkinter Calculator
 
 *A simple yet powerful GUI calculator built with Python's Tkinter.*
 
@@ -12,21 +12,21 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Tkinter Calculator** is a straightforward desktop calculator application that allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The interface is designed with simplicity in mind, making it accessible for users at all levels.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📋 Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
 * **Python**: Version 3.11 or higher
 
-### 🛠️ Installation
+### Installation
 
 1. **Clone the repository:**
 
@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 ---
 
-## 🧪 Usage
+## Usage
 
 * Click the number buttons (`0-9`) to input digits.
 * Use the operator buttons (`+`, `-`, `*`, `/`) for calculations.
@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 ---
 
-## 🧩 Features
+## Features
 
 * **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
 * **Parentheses Support**: Allows complex expressions.
@@ -64,9 +64,9 @@ Ensure you have the following installed:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
-* **Python 3.11**
+* **Python 3.13**
 * **Tkinter**: For building the graphical user interface.
 
 ---
@@ -81,7 +81,7 @@ simple_muttaqiyns_calculator/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome! To contribute:
 
@@ -93,7 +93,7 @@ Contributions are always welcome! To contribute:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any questions or suggestions:
 
