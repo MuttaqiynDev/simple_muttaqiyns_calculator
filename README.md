@@ -7,7 +7,7 @@
 
 *Built using the following tools and technologies:*
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 
 ---
